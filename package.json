@@ -1,0 +1,25 @@
+{
+    "name": "book-city",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiubing1998/book-city.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jiubing1998/book-city/issues"
+    },
+    "homepage": "https://github.com/jiubing1998/book-city#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-webserver": "^0.9.1"
+    }
+}
